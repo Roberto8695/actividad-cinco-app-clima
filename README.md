@@ -22,8 +22,8 @@ Una aplicación móvil híbrida desarrollada con React Native y Expo que permite
 ### Interfaz Principal y Búsqueda de Clima
 
 <div align="center">
-  <img src="assets/screenshots/cochabamba-clima.jpg" alt="Clima en Cochabamba" width="300" style="margin: 10px;">
-  <img src="assets/screenshots/oruro-clima.jpg" alt="Clima en Oruro" width="300" style="margin: 10px;">
+  <img src="assets/img-1.jpg" alt="Clima en Cochabamba" width="300" style="margin: 10px;">
+  <img src="assets/img-1.jpg" alt="Clima en Oruro" width="300" style="margin: 10px;">
 </div>
 
 **Funciones mostradas:**
