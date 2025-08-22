@@ -23,7 +23,7 @@ Una aplicación móvil híbrida desarrollada con React Native y Expo que permite
 
 <div align="center">
   <img src="assets/img-1.jpg" alt="Clima en Cochabamba" width="300" style="margin: 10px;">
-  <img src="assets/img-1.jpg" alt="Clima en Oruro" width="300" style="margin: 10px;">
+  <img src="assets/img-2.jpg" alt="Clima en Oruro" width="300" style="margin: 10px;">
 </div>
 
 **Funciones mostradas:**
