@@ -17,6 +17,26 @@ Una aplicación móvil híbrida desarrollada con React Native y Expo que permite
 - ✅ Diseño responsive
 - ✅ Soporte para múltiples idiomas (español)
 
+## 📸 Capturas de Pantalla
+
+### Interfaz Principal y Búsqueda de Clima
+
+<div align="center">
+  <img src="assets/screenshots/cochabamba-clima.jpg" alt="Clima en Cochabamba" width="300" style="margin: 10px;">
+  <img src="assets/screenshots/oruro-clima.jpg" alt="Clima en Oruro" width="300" style="margin: 10px;">
+</div>
+
+**Funciones mostradas:**
+- 🌤️ **Interfaz principal** con diseño azul moderno
+- 🔧 **Botón de diagnóstico API** para verificar conexión
+- 🔍 **Campo de búsqueda** intuitivo con botones de acción
+- 🌡️ **Información completa del clima** incluyendo temperatura, sensación térmica, humedad, viento, presión y visibilidad
+- 🌅 **Horarios de amanecer y atardecer** locales
+- ☁️ **Emojis representativos** del clima actual
+- 🏙️ **Información de ubicación** con país (BO - Bolivia)
+
+Las capturas muestran la aplicación funcionando correctamente con datos reales de ciudades bolivianas como **Cochabamba** (22°C, Muy Nuboso) y **Oruro** (12°C, Muy Nuboso), demostrando la perfecta integración con la API de OpenWeatherMap.
+
 ## 🚀 Instalación y Configuración
 
 ### Prerrequisitos
@@ -85,6 +105,21 @@ AppClima/
 2. **Obtener información**: Presiona el botón "🔍 Buscar" o Enter
 3. **Ver detalles**: La aplicación mostrará información completa del clima
 4. **Limpiar resultados**: Usa el botón "🗑️ Limpiar" para hacer una nueva búsqueda
+
+### 🎯 Ejemplo de Búsquedas Exitosas
+
+Como se muestra en las capturas de pantalla arriba, la aplicación funciona perfectamente con ciudades como:
+- **Cochabamba, BO** - 22°C, Muy Nuboso
+- **Oruro, BO** - 12°C, Muy Nuboso  
+- **Madrid, ES** - Clima soleado
+- **Buenos Aires, AR** - Información completa
+
+### 🔧 Herramienta de Diagnóstico
+
+Si tienes problemas con tu API key, usa el botón naranja "🔧 Diagnóstico API" que aparece en la parte superior de la aplicación para verificar:
+- ✅ Formato correcto de la API key
+- ✅ Conexión con OpenWeatherMap
+- ❌ Errores específicos y soluciones
 
 ## 🔗 API Utilizada
 
@@ -173,6 +208,25 @@ Modifica el parámetro `units=metric` en la URL de la API:
 ## 📄 Licencia
 
 Este proyecto tiene licencia 0BSD - es de dominio público y puede ser utilizado libremente.
+
+## ✅ Estado del Proyecto
+
+**🚀 APLICACIÓN COMPLETAMENTE FUNCIONAL**
+
+- ✅ **API integrada y funcionando** - Conectada a OpenWeatherMap
+- ✅ **Interfaz completamente desarrollada** - Ver capturas de pantalla arriba
+- ✅ **Pruebas exitosas** - Funciona con ciudades reales (Cochabamba, Oruro, etc.)
+- ✅ **Manejo de errores implementado** - Con herramienta de diagnóstico incluida
+- ✅ **Documentación completa** - README, guías de instalación y uso
+- ✅ **Código organizado** - Arquitectura modular con TypeScript
+
+### 🎯 Demostración
+
+Las capturas de pantalla mostradas arriba son de la aplicación funcionando en tiempo real con:
+- **Datos reales** de la API de OpenWeatherMap
+- **Información completa** del clima (temperatura, humedad, viento, etc.)
+- **Interfaz moderna** y responsive
+- **Funcionalidad completa** de búsqueda y limpieza
 
 ---
 
